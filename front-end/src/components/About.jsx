@@ -77,12 +77,12 @@ export function About() {
 
                     <p style={{ fontSize: "14px" }}>
                         <a
-                            href="https://etherscan.io/address/0x40067f4a61cdb51b6965dabbd4b0ff5e7d430b71#code"
+                            href="https://github.com/johnny-peters/btc-reborn"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ color: "var(--neon-orange)" }}
                         >
-                            Source code
+                            Github Repository
                         </a>
                     </p>
 
